@@ -62,7 +62,7 @@
                         <h4 class="my-0 fw-normal">Free</h4>
                     </div>
                     <div class="card-body">
-                        <h1 class="card-title pricing-card-title">200<small class="text-muted fw-light">VA</small></h1>
+                        <h1 class="card-title pricing-card-title">450<small class="text-muted fw-light">VA</small></h1>
                         <ul class="list-unstyled mt-3 mb-4">
                         <li>Kuat untuk Rumah Kecil</li>
                         <li>Harga Terjangkau</li>
@@ -96,7 +96,7 @@
                         <h4 class="my-0 fw-normal">Enterprise</h4>
                     </div>
                     <div class="card-body">
-                        <h1 class="card-title pricing-card-title">2400<small class="text-muted fw-light">VA</small></h1>
+                        <h1 class="card-title pricing-card-title">1300<small class="text-muted fw-light">VA</small></h1>
                         <ul class="list-unstyled mt-3 mb-4">
                         <li>Kuat untuk Satu Perusahaan</li>
                         <li>Harga Premium Bersaing</li>
